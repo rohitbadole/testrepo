@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.selenium.maven.MavenProject2.Demo"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test">
+    <classes>
+      <class name="com.selenium.maven.MavenProject2.Sample"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71503" started-at="2020-01-06T23:25:22 IST" finished-at="2020-01-06T23:26:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71503" started-at="2020-01-06T23:25:22 IST" finished-at="2020-01-06T23:26:33 IST">
+      <class name="com.selenium.maven.MavenProject2.Sample">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.selenium.maven.MavenProject2.Sample@5622fdf]" name="test2" duration-ms="53595" started-at="2020-01-06T23:25:22 IST" finished-at="2020-01-06T23:26:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.selenium.maven.MavenProject2.Sample -->
+      <class name="com.selenium.maven.MavenProject2.Demo">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.selenium.maven.MavenProject2.Demo@4883b407]" name="test1" duration-ms="17782" started-at="2020-01-06T23:26:15 IST" finished-at="2020-01-06T23:26:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.selenium.maven.MavenProject2.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
